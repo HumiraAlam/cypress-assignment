@@ -4,7 +4,7 @@ This project contains automated tests for login functionality on `https://the-in
 
 ## Project Structure
 
-- **cypress/e2e/**: Contains test cases for three enerios
+- **e2e/**: Contains test cases for three enerios
   ## positive-login.cy.js,
   ## negative-login.cy.js, and
   ## exception-Login.cy.js
@@ -13,7 +13,7 @@ This project contains automated tests for login functionality on `https://the-in
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_link>
+   git clone https://github.com/HumiraAlam/cypress-assignment   <repository_link>
    cd cypress-assignment
    ```
 2. **Install dependencies**:
